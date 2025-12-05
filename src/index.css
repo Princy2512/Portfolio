@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.animate-text-flow {
+  background-size: 200% auto;
+}
